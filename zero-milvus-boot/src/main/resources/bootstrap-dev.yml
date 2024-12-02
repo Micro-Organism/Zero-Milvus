@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: zero-milvus-boot
+uri: https://xxx.gcp-us-west1.cloud.zilliz.com
+token: xxx
